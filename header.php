@@ -10,8 +10,9 @@
       customPageHeader();
     }?>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Muli:300" rel="stylesheet">
     <link href="Content/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="Content/site.css" />
+    <link rel="stylesheet" href="Content/site.css?version=2" />
     <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>

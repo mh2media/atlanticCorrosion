@@ -45,9 +45,9 @@ include_once('header.php');
 
 <div class="row">
     <div class="col-md-12">
-        <h1>
-        Welcome to<br />
-Atlantic Consultants, Inc.</h1>
+        <h2>
+        Welcome to</h2>
+        <h1 style="margin-top:-.25em;">Atlantic Consultants, Inc.</h1>
 <p><strong>We’re pleased introduce you to Atlantic Consultants, Inc.</strong> and to present our qualifications to you. Upon review of our qualifications, you will find that our staff has extensive experience in evaluation of existing transportation facilities, including bridges, marine structures and light rail facilities.</p>
 
 <p><strong>In a report prepared for the National Association of Corrosion Engineers</strong> (NACE), titled “Highway Bridges”, the author indicates that 15% of the nation’s 600,000 bridges have degraded due to corrosion of the steel and reinforcing steel. The report identifies four areas in which there are technological gaps: training, the need for development of expert systems including data analysis and monitoring of coating degradation, condition assessment using non-destructive and other testing procedures, and selecting materials that provide more durable facilities with reduced operation and maintenance costs. Atlantic Consultants can provide assistance in all of these areas.</p>

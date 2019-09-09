@@ -7,7 +7,8 @@ function customPageHeader(){?>
 
 include_once('header.php');
 ?>
-
+<h2>About</h2>
+<h1 style="margin-top:-.25em;">Atlantic Consultants</h1>
 <p style="text-align:center;"><img alt="Kerri and Carol holding the Atlantic Corrosion Engineer sign" src="images/atlanticSign.jpg" width="480" height="82" /></p>
 <br />
 <p><strong>Atlantic Consultants, Inc</strong>. was founded by Kerri Howell, P.E. in February 1998. Ms. Howell&#8217;s objective, in founding the firm, was to provide specialize consulting services in both Civil and Corrosion Engineering. With 27 years of experience, Ms. Howell has provided services in evaluation of existing facilities including pipelines, bridges, condominiums, water storage tanks, water and wastewater plant facilities, marine structures, transit facilities and equipment, fuel storage and other transportation facilities and equipment. She has also performed research and development of materials, equipment and systems for corrosion control. She has extensive experience in design of corrosion monitoring and control systems for pipelines, tanks, basins, atmospherically exposed structures, bridges, marine facilities and plant facilities and equipment, including coatings, linings and cathodic protection. She has developed standard specifications and details for corrosion monitoring and control as well as testing procedures for use in the preliminary design stage for a variety of water and wastewater agencies. Ms. Howell has overseen field testing and prepared reports for external corrosion direct assessment (ECDA) surveys for hundreds of miles of oil and gas pipelines.</p>

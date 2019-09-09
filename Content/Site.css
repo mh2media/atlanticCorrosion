@@ -1,5 +1,6 @@
 ﻿body {
     background-color: #1e4159;
+
 }
 
 /* Wrapping element */
@@ -9,14 +10,16 @@
     padding-right: 15px;
     margin-top: 20px;
     background-color: #fff;
-    font-family: 'Merriweather', serif;
+    font-family: 'Muli', Sans-Serif;
+    font-weight: 300;
 }
 
 .footer {
     background-color: #ccc;
     height: 80px;
     text-align: center;
-    font-family: 'Merriweather', serif;
+    font-family: 'Muli', Sans-Serif;
+    font-weight: 300;
 }
 
 .footer p {
@@ -25,23 +28,32 @@
 }
 
 /* Text styles */
+
+h1, h2, h3, h4, h5, h6 {
+    Font-Family: 'Merriweather', Serif;
+   }
+
 h1 {
     color: #95323A;
     font-size: 4em;
-    font-family: 'Montserrat', sans-serif;
 	margin-top: 25px;
 }
 
 h2 {
-    font-family: 'Montserrat', sans-serif;
+
     color: #1D5835;
     font-size: 3em;
 	margin-top:40px;
 }
 
 h3 {
-    font-family: 'Montserrat', sans-serif;
+
     font-size: 2em;
+}
+
+h4 {
+
+    font-size: 1.5em;
 }
 
 p {
@@ -104,6 +116,63 @@ p.final  {
 	background-color: #fff;
 	margin-top: -20px;
 }
+
+/* Contact form styling  */
+.formContainer {
+    width: 65%;
+
+}
+
+
+/* Add styles to 'label' selector */
+label {
+	font-size: 0.85em;
+	margin-left: 12px;
+}
+
+/* Add styles to 'input' and 'textarea' selectors */
+input[type=text],input[type=email], textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+/* Add styles to the submit button */
+input[type=submit] {
+	background: #64B5F6;
+	margin: 0 auto;
+	outline: 0;
+	color: white;
+	border: 0;
+	padding: 12px 24px;
+	border-radius: 4px;
+	transition: all ease-in-out 0.1s;
+	position: relative;
+	display: inline-block;
+	text-align: center;
+}
+
+/* Add styles for 'focus' property */
+input[type=submit]:focus {
+	background: #A5D6A7;
+	color: whitesmoke;
+}
+
+/* Style 'hover' property */
+input[type=submit]:hover {
+	background: #2196F3;
+}
+
+/* Align items to center of the 'div' with the class 'center' */
+.center {
+	text-align: center;
+}
+
 
 
 /* QR code generator */
