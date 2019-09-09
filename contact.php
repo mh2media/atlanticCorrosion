@@ -19,7 +19,7 @@ include_once('header.php');
 
  <div class="formContainer">
 	
-	<form action="mailHandler.php" name="contact_form" id="myForm" method="POST">
+ <form action="mailHandler.php" name="contact_form" id="myForm" method="POST">
 		<label for="first_name">First Name:</label>
 		<input name="first_name" type="text" required placeholder="John"/>
 		<br>

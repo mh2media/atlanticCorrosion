@@ -11,6 +11,6 @@ include_once('header.php');
 <h2>Thanks for contacting</h2>
 <h1 style="margin-top:-.25em;">Atlantic Consultants</h1>
 
-<p>You submission was successful. We'll contact you ASAP!</p>
+<p>Your submission was successful. We'll contact you ASAP!</p>
 <br />
 <br />
