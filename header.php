@@ -35,9 +35,9 @@
             <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right" style="margin-top:15px !important;">
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="About.php">About</a></li>
-                    <li><a href="Contact.php">Contact</a></li>
-                    <li><a href="Services.php">Services</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="services.php">Services</a></li>
                 </ul>
             </div>
         </div>
